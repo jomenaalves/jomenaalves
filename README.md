@@ -12,8 +12,9 @@
 <a href="https://www.linkedin.com/in/jos%C3%A9-carlos-72495b19b/"> 
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="jomenaalves@gmail.com">
+<a href="">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="jomenaalves@gmail.com">
+</>
 
 
 <!--
