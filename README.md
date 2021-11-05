@@ -1,5 +1,10 @@
 ### Hello Word, I'm José Carlos!  <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
+💻 Fullstack Developer 
+🏡 I'm from Brazil
+
+[![jomenaalves GitHub stats](https://github-readme-stats.vercel.app/api?username=NOMEGIT)](https://github.com/jomenaalves/github-readme-stats)
+
 <!--
 **jomenaalves/jomenaalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
