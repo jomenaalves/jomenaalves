@@ -30,7 +30,9 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="jomenaalves@gmail.com">
 </>
 
-
+ <li>Thanks for visiting.</li>
+  
+  
 <!--
 **jomenaalves/jomenaalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
