@@ -1,4 +1,5 @@
 ### Hello Word, I'm José Carlos!  <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+# 
 
 💻 Fullstack Developer <br />
 🏡 I'm from Brazil
@@ -21,11 +22,6 @@
 <code><img height="20" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
-
-
-
-
-#
 
 
 ## Connect with me
