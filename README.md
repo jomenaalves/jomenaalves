@@ -1,8 +1,8 @@
 ### Hello Word, I'm José Carlos!  <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
-# 
 
 💻 Fullstack Developer <br />
 🏡 I'm from Brazil
+#
 
 ## Languages and Tools:
 
