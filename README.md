@@ -2,8 +2,6 @@
 
 💻 Fullstack Developer <br />
 🏡 I'm from Brazil
-#
-
 ## Languages and Tools:
 
 [![jomenaalves GitHub stats](https://github-readme-stats.vercel.app/api?username=jomenaalves&theme=radical&show_icons=true))](https://github.com/jomenaalves/github-readme-stats)
