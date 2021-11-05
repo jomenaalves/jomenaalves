@@ -4,8 +4,9 @@
 🏡 I'm from Brazil
 
 ## Languages and Tools:
-    [![jomenaalves GitHub stats](https://github-readme-stats.vercel.app/api?username=jomenaalves)](https://github.com/jomenaalves/github-readme-stats)
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jomenaalves&layout=compact)](https://github.com/jomenaalves/github-readme-stats)
+
+[![jomenaalves GitHub stats](https://github-readme-stats.vercel.app/api?username=jomenaalves)](https://github.com/jomenaalves/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jomenaalves&layout=compact)](https://github.com/jomenaalves/github-readme-stats)
 
 <!--
 **jomenaalves/jomenaalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
