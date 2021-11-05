@@ -1,6 +1,6 @@
 ### Hello Word, I'm José Carlos!  <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
-💻 Fullstack Developer <br />
+💻 Fullstack Developer <br /><br />
 🏡 I'm from Brazil
 
 [![jomenaalves GitHub stats](https://github-readme-stats.vercel.app/api?username=jomenaalves)](https://github.com/jomenaalves/github-readme-stats)
