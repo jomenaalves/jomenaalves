@@ -4,8 +4,8 @@
 🏡 I'm from Brazil
 ## Languages and Tools:
 
-[![jomenaalves GitHub stats](https://github-readme-stats.vercel.app/api?username=jomenaalves&theme=radical&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jomenaalves&layout=compact&theme=radical)
+[![jomenaalves GitHub stats](https://github-readme-stats.vercel.app/api?username=jomenaalves&theme=radical&show_icons=true)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jomenaalves&layout=compact&theme=radical)]
 
 
 <code><img height="20" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></code>
