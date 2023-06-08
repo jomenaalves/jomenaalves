@@ -5,7 +5,6 @@
 ## Languages and Tools:
 
 [![jomenaalves GitHub stats](https://github-readme-stats.vercel.app/api?username=jomenaalves&theme=radical&show_icons=true)
-<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jomenaalves&layout=compact&theme=radical)
 
 
